@@ -4,3 +4,4 @@ Git
 Hub
 git remove
 git status
+git diff
